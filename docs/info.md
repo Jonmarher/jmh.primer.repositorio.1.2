@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This circuit is a converter of binary number DIP Switch of 8 positions to a digital 7 segments display signal. It works by modifying the signals manually using the switch component to the logical gates and showing us the signals equivalences in the output display signal. The switch component describes the tracks turned on into the logic gates. The signal in the display, describe the principal numbers of 0 to 9 notation, and additionally the first 5 letters of the Alphabet. A, b, C, d, E, F
 
 ## How to test
 
-Explain how to use your project
+The switch component describes the tracks turned on into the logic gates. The signal in the display, describe the principal numbers of 0 to 9 notation, and additionally the first 5 letters of the Alphabet. A, b, C, d, E, F
 
 ## External hardware
 
